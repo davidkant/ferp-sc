@@ -1,6 +1,6 @@
 #FERP-SC
 
-###SuperCollider tools for Real-Time Audio Analysis 
+###SuperCollider tools for Real-Time Acoustic Environmental Audio Analysis 
 
 This repository is a workspace for EnviroSoundLab directed by David Dunn. These are a few tools for analyzing acoustic environmental monitoring data captured at the FERP.
 
